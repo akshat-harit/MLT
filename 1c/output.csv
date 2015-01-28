@@ -1,0 +1,18 @@
+filename, match, cosine
+bad01.txt,bad08.txt,0.0508196797044
+bad02.txt,bad06.txt,0.0758642113122
+bad03.txt,good02.txt,0.217397767126
+bad04.txt,bad06.txt,0.0494963642645
+bad05.txt,bad03.txt,0.0551295103495
+bad06.txt,bad08.txt,0.110651442251
+bad07.txt,good08.txt,0.103574391881
+bad08.txt,bad06.txt,0.110651442251
+good01.txt,bad08.txt,0.0463359148237
+good02.txt,bad03.txt,0.217397767126
+good03.txt,good02.txt,0.036329864994
+good04.txt,bad06.txt,0.0370217425463
+good05.txt,good01.txt,0.0374741642762
+good06.txt,bad04.txt,0.0441460154874
+good07.txt,good08.txt,0.0853077709574
+good08.txt,bad07.txt,0.103574391881
+overall score: 56.25%
